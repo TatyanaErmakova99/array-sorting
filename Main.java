@@ -6,15 +6,15 @@ public class Main {
         Sheycker sheyk= new Sheycker();
 
         System.out.println();
-        System.out.println("Метод пузырька");
+        System.out.println("РњРµС‚РѕРґ РїСѓР·С‹СЂСЊРєР°");
         bubb.bubbleSort(gen.gener(1000));
 
         System.out.println();
-        System.out.println("Метод выборки");
+        System.out.println("РњРµС‚РѕРґ РІС‹Р±РѕСЂРєРё");
         sel1.func(gen.gener(1000));
 
         System.out.println();
-        System.out.println("Метод Шейкера");
+        System.out.println("РњРµС‚РѕРґ РЁРµР№РєРµСЂР°");
         sheyk.SheyckerSort(gen.gener(1000));
     }
 }
