@@ -4,6 +4,6 @@
 Команды которые надо выполнить что бы собрать проект
 для сборки запустить скрипт build.bat
 
-Для запуска программы lab-10 необходимо установить Java SE Runtime Environment 8u202 который доступен по ссылке https://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html
+Для запуска программы array-sorting необходимо установить Java SE Runtime Environment 8u202 который доступен по ссылке https://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html
 
-Для запуска программы использовать скрипт lab-10.bat находящийся в директории lab-10/bin
+Для запуска программы использовать скрипт array-sorting.bat находящийся в директории array-sorting/bin
