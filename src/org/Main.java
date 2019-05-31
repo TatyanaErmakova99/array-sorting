@@ -9,14 +9,14 @@ public class Main {
 
         System.out.println();
         System.out.println("Метод пузырька");
-        bubb.bubbleSort(gen.gener(1000));
+        bubb.bubbleSort(gen.gener(100));
 
         System.out.println();
         System.out.println("Метод выборки");
-        sel1.func(gen.gener(1000));
+        sel1.func(gen.gener(100));
 
         System.out.println();
         System.out.println("Метод Шейкера");
-        sheyk.SheyckerSort(gen.gener(1000));
+        sheyk.SheyckerSort(gen.gener(100));
     }
 }
